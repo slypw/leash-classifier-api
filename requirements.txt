@@ -1,0 +1,10 @@
+modal
+typing-extensions
+torch
+torchvision
+timm
+ultralytics
+pillow
+fastapi[standard]
+numpy
+scikit-learn
